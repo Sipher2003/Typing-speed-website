@@ -55,6 +55,12 @@
     border-width: 5px ;
 }
 
+body {
+    background-image: url('typing.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1500px,1500px;
+}
 
 
 
